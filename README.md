@@ -1,6 +1,6 @@
 # 🚀 Announcing the Next CodeCraft Competition: Mutual Trust Bank PLC Landing Page Design! 🎨
 
-![Cover Image](https://ibb.co.com/swhqSH6)
+![Cover Image](./assets/Image.png)
 
 ## 🗓 Competition Dates:
 
@@ -45,4 +45,3 @@ This is your chance to demonstrate your skills and creativity. Don’t miss the 
 
 Good luck to all participants! 🚀  
 We can’t wait to see the amazing landing pages you’ll create!
-``
