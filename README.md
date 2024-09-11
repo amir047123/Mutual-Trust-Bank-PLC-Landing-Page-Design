@@ -23,11 +23,11 @@ Get ready for another exciting **CodeCraft Competition**! This time, your challe
 
 ## 📂 Resources:
 
-- **Figma File for the Design**: [Figma Resource Link](https://shorturl.at/OgTfe)
+- **Figma File for the Design**: [Figma Resource Link](https://www.figma.com/design/Cu0iXaTmapsg1uqrgZrnh6/Untitled?node-id=0-1&m=dev&t=EpHz9VXoccHBxyXt-1)
 
 ## 📂 Submission:
 
-- **Submit your project** through the form: [Submission Form](https://forms.gle/avdHcZjTv5jznzRg6)
+- **Submit your project** through the form: [Submission Form](https://forms.gle/3EwvFXfxwrKdupz97)
 - **GitHub Repository**: Make your repository public with a **README** that includes installation instructions and a live project link (via **GitHub Pages**).
 
 ## 🏅 Judging Criteria:
