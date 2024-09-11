@@ -1,5 +1,7 @@
 # 🚀 Announcing the Next CodeCraft Competition: Mutual Trust Bank PLC Landing Page Design! 🎨
 
+![Cover Image](./assets/Hero Image.png)
+
 ## 🗓 Competition Dates:
 
 - **Start**: Friday, 13 September 2024
